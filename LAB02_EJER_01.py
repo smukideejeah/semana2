@@ -16,3 +16,5 @@ class Persona:
 pablo=Persona()
 pablo.nombre= 'Pablo'
 pablo.edad= '30'
+
+#comm
