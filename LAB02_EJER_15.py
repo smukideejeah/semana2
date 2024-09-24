@@ -10,4 +10,4 @@ def print_carreer(carreer):
 
 print_carreer("Ingeniería en Sistemas");
 print_carreer("Ingeniería de Software");
-print_carreer("Ingeniería Informática");
+print_carreer("Ingeniería Informática 2");
